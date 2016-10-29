@@ -1,6 +1,5 @@
 Simple test Laravel package.
 
-[![Build Status](https://img.shields.io/travis/dingo/api/master.svg?style=flat-square)](https://travis-ci.org/dingo/api)
 
 ## Features
 
