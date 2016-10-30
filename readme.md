@@ -1,6 +1,7 @@
 Simple test Laravel package.
 
 [![Build Status](https://travis-ci.org/veljamatic/travistest.svg?branch=master)](https://travis-ci.org/veljamatic/travistest)
+[![StyleCI](https://styleci.io/repos/72283231/shield?branch=master)](https://styleci.io/repos/72283231)
 
 ## Features
 
