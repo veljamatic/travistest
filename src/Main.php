@@ -6,11 +6,11 @@ use Illuminate\Container\Container;
 
 class Main
 {
-  /**
-  * Illuminate container instance.
-  *
-  * @var \Illuminate\Container\Container
-  */
+    /**
+   * Illuminate container instance.
+   *
+   * @var \Illuminate\Container\Container
+   */
   protected $container;
 
   /**
@@ -36,7 +36,7 @@ class Main
    */
   public function __construct(Container $container)
   {
-    $this->container = $container;
+      $this->container = $container;
   }
 
   /**
